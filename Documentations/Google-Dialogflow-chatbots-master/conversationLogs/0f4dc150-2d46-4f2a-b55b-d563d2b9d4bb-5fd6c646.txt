@@ -1,0 +1,2 @@
+2020-05-03/19:44:07		User Says: 8697730360
+2020-05-03/19:44:07		Bot Says: <a href = https://stackoverflow.com/questions/11124940/creating-link-to-an-url-of-flask-app-in-jinja2-template>This is the course you for your upskill</a>

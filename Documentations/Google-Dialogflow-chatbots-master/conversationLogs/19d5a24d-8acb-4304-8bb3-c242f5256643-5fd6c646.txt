@@ -1,0 +1,12 @@
+2020-05-04/00:20:22		User Says: 9876543210
+2020-05-04/00:20:22		Bot Says: Following are the courses for your upskill:
+
+Data Science: https://www.coursera.org/browse/data-science
+
+ https://www.excelr.com/data-science-course-training-in-bangalore
+
+Machine Learning: https://www.udemy.com/course/machine-learning-course-with-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_398023114490_._kw__._de_c_._dm__._pl__._ti_dsa-392284169515_._li_9061992_._pd__._&matchtype=b&gclid=Cj0KCQjw17n1BRDEARIsAFDHFexFuarayfIAVdyWZMox47iON1YW3m2EUgo8t8-RMeOgOWkQOR3XyToaAnvUEALw_wcB
+
+Deep Learning: https://machinelearningmastery.com/what-is-deep-learning
+
+ Do you have any other question to know? Yes or no?

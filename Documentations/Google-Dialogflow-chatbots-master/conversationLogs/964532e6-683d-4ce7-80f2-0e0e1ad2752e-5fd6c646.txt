@@ -1,0 +1,12 @@
+2020-05-04/08:54:55		User Says: 98878786767
+2020-05-04/08:54:55		Bot Says: Based on your current skill, following are the courses to upgrade your skill:
+
+Data Science: https://www.coursera.org/browse/data-science
+
+https://www.excelr.com/data-science-course-training-in-bangalore
+
+Machine Learning: https://www.simplilearn.com/big-data-and-analytics/machine-learning-certification-training-course
+
+Deep Learning: https://machinelearningmastery.com/what-is-deep-learning
+
+

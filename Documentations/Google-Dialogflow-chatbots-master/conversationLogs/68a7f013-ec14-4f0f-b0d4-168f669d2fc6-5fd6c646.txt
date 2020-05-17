@@ -1,0 +1,3 @@
+2020-05-03/19:13:19		User Says: 8697730360
+2020-05-03/19:13:19		Bot Says: This is the course you for your upskill: DS 
+file:///C:/Users/User/Documents/Arti/INeuron%20ML/Documentations/Google-Dialogflow-chatbots-master/email_templates/Python_Template.html
